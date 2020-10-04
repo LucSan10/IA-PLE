@@ -1,0 +1,562 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="800"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" height="600"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.0">
+    <g class="titles" transform="translate(2,0)"/>
+    <g class="vis"
+       transform="translate(400, 300) scale(0.931676983833313,0.931676983833313)">
+        <text id="tag_29"
+              style="font-size: 100px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-157,-11)rotate(60)" text-anchor="middle">
+            life
+        </text>
+        <text id="tag_4"
+              style="font-size: 80px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(82,11)rotate(0)" text-anchor="middle">
+            kid
+        </text>
+        <text id="tag_31"
+              style="font-size: 58px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(42,-136)rotate(-60)" text-anchor="middle">
+            reflect
+        </text>
+        <text id="tag_26"
+              style="font-size: 58px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-225,39)rotate(-30)" text-anchor="middle">
+            mirror
+        </text>
+        <text id="tag_23"
+              style="font-size: 55px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-235,-15)rotate(-30)" text-anchor="middle">
+            fight
+        </text>
+        <text id="tag_22"
+              style="font-size: 55px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-109,-148)rotate(-60)" text-anchor="middle">
+            half
+        </text>
+        <text id="tag_24"
+              style="font-size: 55px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-162,65)rotate(60)" text-anchor="middle">
+            easi
+        </text>
+        <text id="tag_25"
+              style="font-size: 55px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-226,-109)rotate(-60)" text-anchor="middle">
+            bigger
+        </text>
+        <text id="tag_8"
+              style="font-size: 50px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(101,-101)rotate(60)" text-anchor="middle">
+            mind
+        </text>
+        <text id="tag_2"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(118,66)rotate(-30)" text-anchor="middle">
+            anesthet
+        </text>
+        <text id="tag_10"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(191,-71)rotate(30)" text-anchor="middle">
+            time
+        </text>
+        <text id="tag_6"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(182,-150)rotate(60)" text-anchor="middle">
+            feed
+        </text>
+        <text id="tag_37"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-47,-141)rotate(-60)" text-anchor="middle">
+            normal
+        </text>
+        <text id="tag_35"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(161,121)rotate(0)" text-anchor="middle">
+            convent
+        </text>
+        <text id="tag_21"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-4,90)rotate(-30)" text-anchor="middle">
+            strong
+        </text>
+        <text id="tag_28"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-59,-52)rotate(-30)" text-anchor="middle">
+            ey
+        </text>
+        <text id="tag_7"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-27,18)rotate(30)" text-anchor="middle">
+            levit
+        </text>
+        <text id="tag_9"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(55,-57)rotate(0)" text-anchor="middle">
+            curs
+        </text>
+        <text id="tag_36"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-2,139)rotate(-30)" text-anchor="middle">
+            hell
+        </text>
+        <text id="tag_41"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(206,58)rotate(-30)" text-anchor="middle">
+            emerg
+        </text>
+        <text id="tag_34"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-175,124)rotate(30)" text-anchor="middle">
+            pleasant
+        </text>
+        <text id="tag_5"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-148,-208)rotate(0)" text-anchor="middle">
+            feet
+        </text>
+        <text id="tag_40"
+              style="font-size: 48px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-212,181)rotate(60)" text-anchor="middle">
+            regular
+        </text>
+        <text id="tag_72"
+              style="font-size: 46px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-25,-214)rotate(30)" text-anchor="middle">
+            heart
+        </text>
+        <text id="tag_70"
+              style="font-size: 44px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-308,-159)rotate(60)" text-anchor="middle">
+            hand
+        </text>
+        <text id="tag_73"
+              style="font-size: 42px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(187,-18)rotate(0)" text-anchor="middle">
+            space
+        </text>
+        <text id="tag_74"
+              style="font-size: 42px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-147,183)rotate(30)" text-anchor="middle">
+            hold
+        </text>
+        <text id="tag_32"
+              style="font-size: 42px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-293,-212)rotate(60)" text-anchor="middle">
+            hospit
+        </text>
+        <text id="tag_71"
+              style="font-size: 42px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-50,196)rotate(60)" text-anchor="middle">
+            vacanc
+        </text>
+        <text id="tag_1"
+              style="font-size: 39px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-56,64)rotate(-30)" text-anchor="middle">
+            accid
+        </text>
+        <text id="tag_11"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-11,-27)rotate(30)" text-anchor="middle">
+            yeah
+        </text>
+        <text id="tag_45"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-158,-160)rotate(-60)" text-anchor="middle">
+            fame
+        </text>
+        <text id="tag_16"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(66,157)rotate(0)" text-anchor="middle">
+            ground
+        </text>
+        <text id="tag_14"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(246,-128)rotate(60)" text-anchor="middle">
+            well-lit
+        </text>
+        <text id="tag_53"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(93,-198)rotate(60)" text-anchor="middle">
+            hour
+        </text>
+        <text id="tag_38"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(193,-210)rotate(30)" text-anchor="middle">
+            apathi
+        </text>
+        <text id="tag_33"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(276,-23)rotate(-60)" text-anchor="middle">
+            bed
+        </text>
+        <text id="tag_12"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(258,70)rotate(-30)" text-anchor="middle">
+            slot
+        </text>
+        <text id="tag_44"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-95,-203)rotate(60)" text-anchor="middle">
+            hall
+        </text>
+        <text id="tag_18"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-217,-206)rotate(60)" text-anchor="middle">
+            mine
+        </text>
+        <text id="tag_43"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(25,-244)rotate(30)" text-anchor="middle">
+            contus
+        </text>
+        <text id="tag_42"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(263,-199)rotate(60)" text-anchor="middle">
+            bruis
+        </text>
+        <text id="tag_48"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(190,185)rotate(-60)" text-anchor="middle">
+            seventh
+        </text>
+        <text id="tag_49"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(282,107)rotate(-60)" text-anchor="middle">
+            grade
+        </text>
+        <text id="tag_30"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(155,-245)rotate(-60)" text-anchor="middle">
+            home
+        </text>
+        <text id="tag_20"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-316,109)rotate(0)" text-anchor="middle">
+            parallel
+        </text>
+        <text id="tag_39"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(107,186)rotate(0)" text-anchor="middle">
+            urgenc
+        </text>
+        <text id="tag_17"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(243,170)rotate(30)" text-anchor="middle">
+            ledg
+        </text>
+        <text id="tag_27"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(309,6)rotate(-30)" text-anchor="middle">
+            origin
+        </text>
+        <text id="tag_15"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(297,203)rotate(-60)" text-anchor="middle">
+            weekend
+        </text>
+        <text id="tag_3"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(9,181)rotate(-60)" text-anchor="middle">
+            sit
+        </text>
+        <text id="tag_19"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-255,174)rotate(-60)" text-anchor="middle">
+            glare
+        </text>
+        <text id="tag_13"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(221,211)rotate(-60)" text-anchor="middle">
+            vultur
+        </text>
+        <text id="tag_52"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(321,-119)rotate(30)" text-anchor="middle">
+            coward
+        </text>
+        <text id="tag_99"
+              style="font-size: 33px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-314,42)rotate(-30)" text-anchor="middle">
+            scent
+        </text>
+        <text id="tag_60"
+              style="font-size: 32px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-253,225)rotate(-30)" text-anchor="middle">
+            wooden
+        </text>
+        <text id="tag_61"
+              style="font-size: 32px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(323,-233)rotate(-60)" text-anchor="middle">
+            wedg
+        </text>
+        <text id="tag_46"
+              style="font-size: 32px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(44,219)rotate(60)" text-anchor="middle">
+            commot
+        </text>
+        <text id="tag_47"
+              style="font-size: 32px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(201,-266)rotate(60)" text-anchor="middle">
+            gurnei
+        </text>
+        <text id="tag_95"
+              style="font-size: 27px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(67,37)rotate(0)" text-anchor="middle">
+            pull
+        </text>
+        <text id="tag_94"
+              style="font-size: 27px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-83,201)rotate(-60)" text-anchor="middle">
+            glass
+        </text>
+        <text id="tag_84"
+              style="font-size: 25px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(132,225)rotate(-60)" text-anchor="middle">
+            event
+        </text>
+        <text id="tag_83"
+              style="font-size: 25px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(137,-144)rotate(30)" text-anchor="middle">
+            chain
+        </text>
+        <text id="tag_57"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(55,-104)rotate(-30)" text-anchor="middle">
+            train
+        </text>
+        <text id="tag_59"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-171,-103)rotate(30)" text-anchor="middle">
+            pain
+        </text>
+        <text id="tag_54"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(242,-91)rotate(60)" text-anchor="middle">
+            danger
+        </text>
+        <text id="tag_50"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-22,-139)rotate(-60)" text-anchor="middle">
+            littl
+        </text>
+        <text id="tag_55"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(242,218)rotate(-60)" text-anchor="middle">
+            fabric
+        </text>
+        <text id="tag_75"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(78,217)rotate(60)" text-anchor="middle">
+            truth
+        </text>
+        <text id="tag_65"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-73,227)rotate(-60)" text-anchor="middle">
+            structur
+        </text>
+        <text id="tag_66"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(292,248)rotate(-60)" text-anchor="middle">
+            compens
+        </text>
+        <text id="tag_78"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-222,-251)rotate(-30)" text-anchor="middle">
+            tomorrow
+        </text>
+        <text id="tag_101"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-110,-255)rotate(60)" text-anchor="middle">
+            wing
+        </text>
+        <text id="tag_79"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(262,-265)rotate(60)" text-anchor="middle">
+            mysteri
+        </text>
+        <text id="tag_64"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(82,-164)rotate(-60)" text-anchor="middle">
+            worst
+        </text>
+        <text id="tag_80"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-193,-81)rotate(0)" text-anchor="middle">
+            babi
+        </text>
+        <text id="tag_68"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-61,-19)rotate(-60)" text-anchor="middle">
+            lot
+        </text>
+        <text id="tag_76"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(316,-51)rotate(30)" text-anchor="middle">
+            yesterdai
+        </text>
+        <text id="tag_56"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(313,34)rotate(-30)" text-anchor="middle">
+            graffiti
+        </text>
+        <text id="tag_105"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(297,125)rotate(-60)" text-anchor="middle">
+            pocket
+        </text>
+        <text id="tag_77"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(334,50)rotate(-30)" text-anchor="middle">
+            histori
+        </text>
+        <text id="tag_58"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-285,132)rotate(0)" text-anchor="middle">
+            vultur
+        </text>
+        <text id="tag_106"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-82,-152)rotate(-60)" text-anchor="middle">
+            soul
+        </text>
+        <text id="tag_63"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-190,64)rotate(60)" text-anchor="middle">
+            habit
+        </text>
+        <text id="tag_100"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-237,242)rotate(-30)" text-anchor="middle">
+            quarantin
+        </text>
+        <text id="tag_62"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(156,149)rotate(30)" text-anchor="middle">
+            vers
+        </text>
+        <text id="tag_67"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-126,-277)rotate(-60)" text-anchor="middle">
+            compens
+        </text>
+        <text id="tag_81"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-86,112)rotate(-60)" text-anchor="middle">
+            girl
+        </text>
+        <text id="tag_51"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(215,7)rotate(-30)" text-anchor="middle">
+            help
+        </text>
+        <text id="tag_69"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(101,-250)rotate(0)" text-anchor="middle">
+            admir
+        </text>
+        <text id="tag_108"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-49,-107)rotate(60)" text-anchor="middle">
+            skin
+        </text>
+        <text id="tag_110"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-302,-110)rotate(30)" text-anchor="middle">
+            floor
+        </text>
+        <text id="tag_107"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(164,-52)rotate(0)" text-anchor="middle">
+            dead
+        </text>
+        <text id="tag_109"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-310,155)rotate(0)" text-anchor="middle">
+            linoleum
+        </text>
+        <text id="tag_89"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(49,124)rotate(0)" text-anchor="middle">
+            circl
+        </text>
+        <text id="tag_97"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(321,-87)rotate(0)" text-anchor="middle">
+            preciou
+        </text>
+        <text id="tag_93"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-34,-71)rotate(30)" text-anchor="middle">
+            door
+        </text>
+        <text id="tag_86"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(314,83)rotate(60)" text-anchor="middle">
+            hide
+        </text>
+        <text id="tag_91"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-69,31)rotate(-30)" text-anchor="middle">
+            poacher
+        </text>
+        <text id="tag_85"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(131,-185)rotate(60)" text-anchor="middle">
+            camera
+        </text>
+        <text id="tag_88"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-125,223)rotate(-60)" text-anchor="middle">
+            blood
+        </text>
+        <text id="tag_92"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(349,-156)rotate(60)" text-anchor="middle">
+            overexposur
+        </text>
+        <text id="tag_90"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(13,214)rotate(30)" text-anchor="middle">
+            cultur
+        </text>
+        <text id="tag_82"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-93,-272)rotate(60)" text-anchor="middle">
+            therapeut
+        </text>
+        <text id="tag_87"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(325,188)rotate(-60)" text-anchor="middle">
+            smirk
+        </text>
+        <text id="tag_96"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-310,-49)rotate(60)" text-anchor="middle">
+            inspir
+        </text>
+        <text id="tag_98"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(-7,-166)rotate(0)" text-anchor="middle">
+            song
+        </text>
+        <text id="tag_102"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-313,168)rotate(0)" text-anchor="middle">
+            therapeut
+        </text>
+        <text id="tag_103"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(255, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(213,72)rotate(60)" text-anchor="middle">
+            choru
+        </text>
+        <text id="tag_104"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(0, 0, 204); cursor: pointer; user-select: none;"
+              transform="translate(83,-99)rotate(30)" text-anchor="middle">
+            choru
+        </text>
+    </g>
+</svg>
